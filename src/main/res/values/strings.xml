@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Coink</string>
+    <string name="ab">Para comenzar, por favor ingresa  <b>tu número celular</b></string>
+    <string name="price_text_view2">XXX-XXXXXXX</string>
+    <string name="atras">‹</string>
+    <string name="number_phone">NÚMERO DE CELULAR</string>
+    <string name="Text_page">DATOS DE CUENTA</string>
+    <string name="abc"><b>¿CUALES SON SUS DATOS?</b></string>
+    <string name="abcd">Ahora necesitamos saber \n algunos datos tuyos</string>
+    <string name="DI"><b>Documento de identidad</b></string>
+    <string name="CC"><b>Configura tu cuenta</b></string>
+
+
+
+    <string-array name= "documento">
+        <item>Tarjeta de identidad</item>
+        <item>Cédula de Ciudadanía</item>
+        <item>Cédula de extranjería</item>
+
+    </string-array>
+
+    <string-array name= "genero">
+        <item>Femenino</item>
+        <item>Masculino</item>
+
+
+    </string-array>
+
+</resources>
